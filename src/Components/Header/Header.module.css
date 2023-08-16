@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    background-color: #E85A4F;
+    color: #ffffff;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    margin: 0 0 0 20px;
+}
